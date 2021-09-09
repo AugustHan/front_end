@@ -1,0 +1,21 @@
+.introTitle {
+	color: yellow;
+	background-color: blue;
+	border: 2px solid grey;
+	font-size: 40px;
+	width: 400px;
+}
+.introText {
+	color: grey;
+	font-size: 30px;
+}
+input {
+	margin: 4px;
+}
+
+div {
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
