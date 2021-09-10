@@ -1,11 +1,14 @@
-.introTitle {
+.intro {
 	color: yellow;
 	background-color: blue;
 	border: 2px solid grey;
+}
+
+.title {
 	font-size: 40px;
 	width: 400px;
 }
-.introText {
+.text {
 	color: grey;
 	font-size: 30px;
 }
