@@ -1,4 +1,4 @@
-**Version 1.0.0***
+**Version 1.0.0**
 Codes and documents for Extended euclidean algorithm implementation.
 
 ## Usage
